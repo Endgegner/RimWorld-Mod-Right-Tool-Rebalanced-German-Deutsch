@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RTFTJ_Pickaxe.label>Pickaxt</RTFTJ_Pickaxe.label>
+  <RTFTJ_Pickaxe.description>Eine solide Pickaxt zum Berge versetzen.</RTFTJ_Pickaxe.description>
+  <RTFTJ_Pickaxe.tools.0.label>Spitze</RTFTJ_Pickaxe.tools.0.label>
+  
+  <RTFTJ_HandAxe.label>Axt</RTFTJ_HandAxe.label>
+  <RTFTJ_HandAxe.description>Eine solide Axt um Bäume zu fällen.</RTFTJ_HandAxe.description>
+  <RTFTJ_HandAxe.tools.0.label>Spitze</RTFTJ_HandAxe.tools.0.label>
+  
+  <RTFTJ_Hammer.label>Hammer</RTFTJ_Hammer.label>
+  <RTFTJ_Hammer.description>Ein Hammer zum Beulen verteilen... und zum Aufbau von Gebäuden.</RTFTJ_Hammer.description>
+  <RTFTJ_Hammer.tools.0.label>Spitze</RTFTJ_Hammer.tools.0.label>
+  
+  <RTFTJ_Drill.label>Hybridbohrer</RTFTJ_Drill.label>
+  <RTFTJ_Drill.description>Hybrid-Presslufthammer mit Bohrkopf. Ein wahrer Maulwurf.</RTFTJ_Drill.description>
+  <RTFTJ_Drill.tools.0.label>Spitze</RTFTJ_Drill.tools.0.label>
+  
+  <RTFTJ_Chainsaw.label>Kettensäge</RTFTJ_Chainsaw.label>
+  <RTFTJ_Chainsaw.description>Eine Kettensäge zum Zerteilen von Holz und anderen Dingen.</RTFTJ_Chainsaw.description>
+  <RTFTJ_Chainsaw.tools.0.label>Spitze</RTFTJ_Chainsaw.tools.0.label>
+  
+  <RTFTJ_Autohammer.label>Auto-Hammer</RTFTJ_Autohammer.label>
+  <RTFTJ_Autohammer.description>Ein Hammer mit automatischem Betrieb. Ungemein praktisch!</RTFTJ_Autohammer.description>
+  <RTFTJ_Autohammer.tools.0.label>Spitze</RTFTJ_Autohammer.tools.0.label>
+
+  <RTFTJ_Toolbelt.label>Werkzeuggürtel</RTFTJ_Toolbelt.label>
+  <RTFTJ_Toolbelt.description>Ein Werkzeuggürtel mit ordentlich Stauraum und allem was das Herz begehrt.</RTFTJ_Toolbelt.description>
+  <RTFTJ_Toolbelt.tools.0.label>Spitze</RTFTJ_Toolbelt.tools.0.label>
+   <!-- ### Toolbelts ### -->
+  <RTFTJ_ToolbeltAdv.label>Erweiterter Werkzeuggürtel</RTFTJ_ToolbeltAdv.label>
+  <RTFTJ_ToolbeltAdv.description>Ein großzügig erweiterter Werkzeuggürtel mit ordentlich Stauraum und allem was das Herz begehrt.</RTFTJ_ToolbeltAdv.description>
+  <RTFTJ_ToolbeltAdv.tools.0.label>Spitze</RTFTJ_ToolbeltAdv.tools.0.label>
+
+</LanguageData>
