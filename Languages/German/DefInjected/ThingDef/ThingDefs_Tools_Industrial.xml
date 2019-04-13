@@ -24,13 +24,13 @@
   <RTFTJ_Autohammer.label>Auto-Hammer</RTFTJ_Autohammer.label>
   <RTFTJ_Autohammer.description>Ein Hammer mit automatischem Betrieb. Ungemein praktisch!</RTFTJ_Autohammer.description>
   <RTFTJ_Autohammer.tools.0.label>Spitze</RTFTJ_Autohammer.tools.0.label>
-
+  
+   <!-- ### Toolbelts ### -->
   <RTFTJ_Toolbelt.label>Werkzeuggürtel</RTFTJ_Toolbelt.label>
   <RTFTJ_Toolbelt.description>Ein Werkzeuggürtel mit ordentlich Stauraum und allem was das Herz begehrt.</RTFTJ_Toolbelt.description>
-  <RTFTJ_Toolbelt.tools.0.label>Spitze</RTFTJ_Toolbelt.tools.0.label>
-   <!-- ### Toolbelts ### -->
+
   <RTFTJ_ToolbeltAdv.label>Erweiterter Werkzeuggürtel</RTFTJ_ToolbeltAdv.label>
   <RTFTJ_ToolbeltAdv.description>Ein großzügig erweiterter Werkzeuggürtel mit ordentlich Stauraum und allem was das Herz begehrt.</RTFTJ_ToolbeltAdv.description>
-  <RTFTJ_ToolbeltAdv.tools.0.label>Spitze</RTFTJ_ToolbeltAdv.tools.0.label>
+
 
 </LanguageData>
