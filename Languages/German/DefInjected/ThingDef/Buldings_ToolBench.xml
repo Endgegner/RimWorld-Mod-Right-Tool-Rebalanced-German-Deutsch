@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RTFTJToolBench.label>Werkzeugs-Anfertigung</RTFTJToolBench.label>
+  <RTFTJToolBench.description>Ein großer Tisch mit verschiedensten Instrumenten um Werkzeuge zusammenzustellen.</RTFTJToolBench.description>
+  <RTFTJToolBench_Blueprint.label>Werkbank zur Werkzeugs-Anfertigung (Entwurf)</RTFTJToolBench_Blueprint.label>
+  <RTFTJToolBench_Blueprint_Install.label>Werkbank zur Werkzeugs-Anfertigung (Entwurf)</RTFTJToolBench_Blueprint_Install.label>
+  <RTFTJToolBench_Frame.label>Werkbank zur Werkzeugs-Anfertigung (wird gebaut)</RTFTJToolBench_Frame.label>
+  <RTFTJToolBench_Frame.description>Ein großer Tisch mit verschiedensten Instrumenten um Werkzeuge zusammenzustellen.</RTFTJToolBench_Frame.description>
+
+</LanguageData>

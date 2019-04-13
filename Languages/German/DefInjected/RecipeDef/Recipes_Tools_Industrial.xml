@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakePickaxe.label>Stelle eine Pickaxt her</MakePickaxe.label>
+  <MakePickaxe.description>Stelle eine Pickaxt her.</MakePickaxe.description>
+  <MakePickaxe.jobString>Werkzeug-Anfertigung.</MakePickaxe.jobString>
+
+  <MakeHandaxe.label>Stelle eine Axt her</MakeHandaxe.label>
+  <MakeHandaxe.description>Stelle eine Axt her.</MakeHandaxe.description>
+  <MakeHandaxe.jobString>Werkzeug-Anfertigung.</MakeHandaxe.jobString>
+
+  <MakeHammer.label>Stelle einen Hammer her</MakeHammer.label>
+  <MakeHammer.description>Stelle einen Hammer her.</MakeHammer.description>
+  <MakeHammer.jobString>Werkzeug-Anfertigung.</MakeHammer.jobString>
+  <!-- Jackhammer Drill, Bohrkopfhammer -->
+  <MakeDrill.label>Stelle einen Hybridbohrer her</MakeDrill.label>
+  <MakeDrill.description>Stelle eine Presslufthammer mit Bohrkopf her.</MakeDrill.description>
+  <MakeDrill.jobString>Werkzeug-Anfertigung.</MakeDrill.jobString>
+
+  <MakeChainsaw.label>Stelle eine Kettensäge her</MakeChainsaw.label>
+  <MakeChainsaw.description>Stelle eine Kettensäge her.</MakeChainsaw.description>
+  <MakeChainsaw.jobString>Werkzeug-Anfertigung.</MakeChainsaw.jobString>
+
+  <MakeAutohammer.label>Stelle einen Auto-Hammer her</MakeAutohammer.label>
+  <MakeAutohammer.description>Stelle einen Auto-Hammer her.</MakeAutohammer.description>
+  <MakeAutohammer.jobString>Werkzeug-Anfertigung.</MakeAutohammer.jobString>
+
+  <!-- ### Toolbelts ### -->
+  <MakeToolbelt.label>Stelle einen Werkzeuggürtel her</MakeToolbelt.label>
+  <MakeToolbelt.description>Stelle einen Werkzeuggürtel her.</MakeToolbelt.description>
+  <MakeToolbelt.jobString>Werkzeug-Anfertigung.</MakeToolbelt.jobString>
+
+  <MakeToolbeltAdv.label>Stelle einen erweiterten Werkzeuggürtel her</MakeToolbeltAdv.label>
+  <MakeToolbeltAdv.description>Stelle einen erweiterten Werkzeuggürtel her.</MakeToolbeltAdv.description>
+  <MakeToolbeltAdv.jobString>Werkzeug-Anfertigung.</MakeToolbeltAdv.jobString>
+
+</LanguageData>

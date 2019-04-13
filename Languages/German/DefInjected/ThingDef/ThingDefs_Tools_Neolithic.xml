@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neolithic Tools -->
+  <RTFTJ_Neo_Pick.label>Picke</RTFTJ_Neo_Pick.label>
+  <RTFTJ_Neo_Pick.description>Eine Picke aus Stein. Hilft einem mit einfachen Mitteln störende Felsen im adequaten Tempo abzubauen.</RTFTJ_Neo_Pick.description>
+  <RTFTJ_Neo_Pick.tools.0.label>point</RTFTJ_Neo_Pick.tools.0.label>
+  
+  <RTFTJ_Neo_Shovel.label>Spaten</RTFTJ_Neo_Shovel.label>
+  <RTFTJ_Neo_Shovel.description>Ein Schüppe mit Steinblatt. A shovel for growing.</RTFTJ_Neo_Shovel.description>
+  <RTFTJ_Neo_Shovel.tools.0.label>point</RTFTJ_Neo_Shovel.tools.0.label>
+
+</LanguageData>
