@@ -18,7 +18,7 @@
   <RTFTJ_Drill.tools.0.label>Spitze</RTFTJ_Drill.tools.0.label>
   
   <RTFTJ_Chainsaw.label>Kettensäge</RTFTJ_Chainsaw.label>
-  <RTFTJ_Chainsaw.description>Eine Kettensäge zum Zerteilen von Holz und anderen Dingen.</RTFTJ_Chainsaw.description>
+  <RTFTJ_Chainsaw.description>Eine Kettensäge zum Zerteilen von Holz und anderen Dingen. Es geht zwar schneller, aber wo gehobelt wird, da fallen auch Späne.</RTFTJ_Chainsaw.description>
   <RTFTJ_Chainsaw.tools.0.label>Spitze</RTFTJ_Chainsaw.tools.0.label>
   
   <RTFTJ_Autohammer.label>Auto-Hammer</RTFTJ_Autohammer.label>
